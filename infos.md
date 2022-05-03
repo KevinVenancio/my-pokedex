@@ -1,0 +1,1 @@
+rodar o programa - ng serve
